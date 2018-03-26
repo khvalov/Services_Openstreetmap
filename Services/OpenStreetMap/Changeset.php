@@ -20,7 +20,7 @@
  * @category   Services
  * @package    Services_OpenStreetMap
  * @subpackage Services_OpenStreetMap_Object
- * @author     Ken Guest <kguest@php.net>, V Kh (OAuth)
+ * @author     Ken Guest <kguest@php.net>, Valery Khvalov (OAuth)
  * @license    BSD http://www.opensource.org/licenses/bsd-license.php
  * @link       Changeset.php
  */
