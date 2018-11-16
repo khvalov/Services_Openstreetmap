@@ -41,7 +41,7 @@ class Services_OpenStreetMap_Changeset extends Services_OpenStreetMap_Object
      *
      * @var array
      */
-    protected $members = [];
+    public $members = [];
 
     /**
      * Array of the Ids of the members of what this changeset represents.
